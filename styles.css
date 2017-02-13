@@ -1,0 +1,102 @@
+html {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+th, td {
+    padding: 5px;
+}
+
+.select {
+    margin-right: 30px;
+}
+
+.submit {
+    background-color: #F44336;
+    border: none;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.title {
+    background-color: #F44336;
+    color: #FFF;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    margin-bottom:20px;
+    border-radius: 5px;
+}
+
+.center {
+    width: 625px;
+    border-style: solid;
+    border-color: #F44336;
+    padding: 25px;
+    font-size: 20px;
+}
+
+
+a.one:link {color:#FFF; text-decoration: none;}
+a.one:visited {color:#FFF; text-decoration: none;}
+a.one:hover {text-decoration: underline;}
+
+a.two:link {color:#000; text-decoration: none;}
+a.two:visited {color:#000; text-decoration: none;}
+a.two:hover {color:#F44336; text-decoration: underline;}
+
+
+.warningText {color:#F44336;}
+
+.successText {color:#0066ff;}
+
+
+.header {
+    margin-bottom: 25px;
+}
+
+.header_button {
+    background-color: #F44336;
+    border: none;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.logout {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.signup {
+    width: 200px;
+    height: auto;
+    padding: 25px;
+    color: black;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #F44336;
+}
