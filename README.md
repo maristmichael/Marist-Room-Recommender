@@ -1,4 +1,4 @@
-# SD2-WebApp
+# Marist Room Recommender
 This is a repository containing a co-created web application system for my Software Development II class.
 
 
